@@ -52,6 +52,8 @@ cd springboot-h2-crud
 | POST   | `/users`         | Create a new user         |
 | PUT    | `/users/{id}`    | Update a user             |
 | DELETE | `/users/{id}`    | Delete a user             |
+| GET    | `/users/email/{mail}`           | Get user by email JPQL       |
+| GET    | `/users/email-nativo/{mail}`    | Get user by email Native SQL |
 
 ---
 
