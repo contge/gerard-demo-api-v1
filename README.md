@@ -32,8 +32,8 @@ This project is a simple REST API developed with **Spring Boot**, using **Spring
 
 ### 1. Clone the project
 ```bash
-git clone https://github.com/youruser/springboot-h2-crud.git
-cd springboot-h2-crud
+git clone https://github.com/contge/gerard-demo-api-v1.git
+cd gerard-demo-api-v1
 ```
 
 ### 2. Run with Maven
